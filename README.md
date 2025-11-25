@@ -14,6 +14,7 @@ That's the kind of impact I want to contribute to.
 I have a strong interest in **system design**, **data flows**, and building architectures that feel seamless to use. Clean code and maintainability matter a lot to me, not just for elegance, but so that others can build on top of what I create with ease.
 
 I bring:
+
 🐚 A structured, architectural mindset  
 
 🐚 Strong attention to accessibility and eco-design principles
