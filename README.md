@@ -4,12 +4,12 @@ I'm a developer from Alsace (France), currently finishing my Master's degree in 
 
 Right now, I'm building a suite of **local-first desktop tools** (PDF editing, conversion, background removal…). The idea is to offer everyday utilities that are accessible to disabled users, that work offline, and that aren't polluted by ads or tracking. I believe that good software should be *light*, *privacy-friendly*, and *available to everyone*, regardless of bandwidth or hardware.
 
-## Why I develop
+## 🪸 Why I develop
 
 I don't see IT as the field that will "save humanity" but I do believe it can solve real problems and help communities reconnect. Coding is one of the most accessible creative skills today, and it allows people to reclaim agency over their tools, their time, and their digital spaces.  
 That's the kind of impact I want to contribute to.
 
-## My strengths
+## 🪼 My strengths
 
 I have a strong interest in **system design**, **data flows**, and building architectures that feel seamless to use. Clean code and maintainability matter a lot to me, not just for elegance, but so that others can build on top of what I create with ease.
 
