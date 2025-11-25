@@ -2,7 +2,7 @@
 
 I'm a developer from Alsace (France), currently finishing my Master's degree in IT at Epitech. I'm looking to work on projects that genuinely improve people's everyday lives, locally or globally, by making technology simpler, more accessible, and more respectful of its users.
 
-Right now, I'm building a suite of **local-first desktop tools** (PDF editing, conversion, background removal…). The idea is to offer everyday utilities that are accessible to disabled users, that work offline, and that aren't polluted by ads or tracking. I strongly believe that good software should be *light*, *privacy-friendly*, and *available to everyone*, regardless of bandwidth or hardware.
+Right now, I'm building a suite of **local-first desktop tools** (PDF editing, conversion, background removal…). The idea is to offer everyday utilities that are accessible to disabled users, that work offline, and that aren't polluted by ads or tracking. I believe that good software should be *light*, *privacy-friendly*, and *available to everyone*, regardless of bandwidth or hardware.
 
 ## Why I develop
 
