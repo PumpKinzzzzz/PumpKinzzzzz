@@ -6,7 +6,7 @@ Right now, I'm building a suite of **local-first desktop tools** (PDF editing, c
 
 ## 🪸 Why I develop
 
-I don't see IT as the field that will "save humanity" but I do believe it can solve real problems and help communities reconnect. Coding is one of the most accessible creative skills today, and it allows people to reclaim agency over their tools, their time, and their digital spaces.  
+I do believe it can solve real problems and help communities reconnect. Coding is one of the most accessible creative skills today, and it allows people to reclaim agency over their tools, their time, and their digital spaces.  
 That's the kind of impact I want to contribute to.
 
 ## 🪼 My strengths
