@@ -1,6 +1,6 @@
 ## 🌻 I'm Julian, welcome to my GitHub 🗺️
 
-I'm a developer based in Alsace, France, currently finishing my Master's degree in IT at Epitech. My work is driven by a pursuit of **SOLID**, **clean**, and **well-architected** solutions. The projects here represent my current state of the art—my best effort at refining how software serves its users. I am always open to discussions on how to improve these approaches, both in code and in design.
+I'm a developer based in Alsace, France, currently finishing my Master's degree in IT at Epitech. My work is driven by a pursuit of **SOLID**, **clean**, and **well-architected** solutions. The projects here represent my current state of the art: my best effort at refining how software serves its users. I am always open to discussions on how to improve these approaches, both in code and in design.
 
 My focus isn't on chasing new trends, but on **magnifying the existing**. My goal is to design tools that transform the computer into a true lever of efficiency by enhancing the utilities people already need, simplifying interactions, and making technology more accessible to everyone.
 
@@ -14,7 +14,7 @@ I focus on:
 - **Magnifying existing tools:** Enhancing features to eliminate friction and optimize established workflows.
 - **Workflow optimization:** Creating architectures where the tool adapts to the human, not the other way around.
 - **Real accessibility:** Ensuring these improvements benefit everyone, including people with disabilities.
-- **Systemic efficiency:** Writing code that reflects this flow logic—clean, modular, and results-oriented.
+- **Systemic efficiency:** Writing code that reflects this flow logic: clean, modular, and results-oriented.
 
 For me, the true value of development lies in this ability to polish the tool until it disappears behind the user's intent.
 
@@ -23,6 +23,7 @@ For me, the true value of development lies in this ability to polish the tool un
 I have a strong interest in **system design** and the **fluidity of data flows**. I build invisible architectures where complexity is handled in the background to deliver a seamless user experience.
 
 I bring:
+
 ☀️ A workflow-centric mindset  
 ☀️ Expertise in accessibility and eco-design  
 ☀️ UX sensitivity focused on simplicity and fluidity  
