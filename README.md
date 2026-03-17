@@ -1,36 +1,42 @@
-## 🌊 I'm Julian, welcome to my GitHub 🦈
+## 🌻 I'm Julian, welcome to my GitHub 🗺️
 
-I'm a developer from Alsace (France), currently finishing my Master's degree in IT at Epitech. I'm looking to work on projects that genuinely improve people's everyday lives, locally or globally, by making technology simpler, more accessible, and more respectful of its users.
+I'm a developer based in Alsace, France, currently finishing my Master's degree in IT at Epitech. My work is driven by a pursuit of **SOLID**, **clean**, and **well-architected** solutions. The projects here represent my current state of the art—my best effort at refining how software serves its users. I am always open to discussions on how to improve these approaches, both in code and in design.
 
-Right now, I'm building a suite of **local-first desktop tools** (PDF editing, conversion, background removal…). The idea is to offer everyday utilities that are accessible to disabled users, that work offline, and that aren't polluted by ads or tracking. I believe that good software should be *light*, *privacy-friendly*, and *available to everyone*, regardless of bandwidth or hardware.
+My focus isn't on chasing new trends, but on **magnifying the existing**. My goal is to design tools that transform the computer into a true lever of efficiency by enhancing the utilities people already need, simplifying interactions, and making technology more accessible to everyone.
 
-## 🪸 Why I develop
+Currently, I'm building a suite of **local-first desktop tools** (PDF editing, conversion, background removal…) that work offline, without ads or tracking. The aim is to offer lightweight, ethical, and performant utilities accessible regardless of hardware or bandwidth.
 
-I do believe it can solve real problems and help communities reconnect. Coding is one of the most accessible creative skills today, and it allows people to reclaim agency over their tools, their time, and their digital spaces.  
-That's the kind of impact I want to contribute to.
+## 🛠️ My Vision: Architecting Fluid Workflows
 
-## 🪼 My strengths
+I see myself as an **architect of workflows**. My approach is rooted in the belief that the computer is a tool: our role as developers is to continuously refine it, removing friction until the technology becomes a natural extension of the user.
 
-I have a strong interest in **system design**, **data flows**, and building architectures that feel seamless to use. Clean code and maintainability matter a lot to me, not just for elegance, but so that others can build on top of what I create with ease.
+I focus on:
+- **Magnifying existing tools:** Enhancing features to eliminate friction and optimize established workflows.
+- **Workflow optimization:** Creating architectures where the tool adapts to the human, not the other way around.
+- **Real accessibility:** Ensuring these improvements benefit everyone, including people with disabilities.
+- **Systemic efficiency:** Writing code that reflects this flow logic—clean, modular, and results-oriented.
+
+For me, the true value of development lies in this ability to polish the tool until it disappears behind the user's intent.
+
+## 🪲 My Strengths
+
+I have a strong interest in **system design** and the **fluidity of data flows**. I build invisible architectures where complexity is handled in the background to deliver a seamless user experience.
 
 I bring:
+☀️ A workflow-centric mindset  
+☀️ Expertise in accessibility and eco-design  
+☀️ UX sensitivity focused on simplicity and fluidity  
+☀️ Clean, scalable code structured around SOLID principles  
+☀️ The ability to turn constraints into opportunities for simplification  
 
-🐚 A structured, architectural mindset  
+## 🪚 Tech Stack
 
-🐚 Strong attention to accessibility and eco-design principles
+Recently taking the Rust pill. I Started devellop with the Tauri Framework and I am way too enjoying it.
 
-🐚 A sense for usability and simple UX 
-
-🐚 Clean, scalable, SOLID-friendly code
-
-🐚 The ability to think beyond business constraints and focus on real user needs  
-
-## 🛠️ Tech stack
-
-**Languages:** C, C++, Go, Python, TypeScript  
-**Frontend:** React  
-**Backend & Systems:** Go, C/C++, local-first design, clean architecture  
-**Interests:** accessibility, decentralization, minimalist UX, low-tech principles, digital sustainability  
+**Framework:** Tauri, React
+**Frontend:** Javascript
+**Backend & Systems:** Rust, Go, C/C++, local-first design, flow-oriented architecture  
+**Interests:** tooling, workflow optimization, accessibility, low-tech, digital sustainability  
 
 ## How to reach me
 - **Email:** julianlambert524@gmail.com  
@@ -38,5 +44,3 @@ I bring:
 
 A book I really enjoyed:  
 **[How to Build a Low-Tech Internet](https://solar.lowtechmagazine.com/2023/08/thematic-books-series/)** — Kris De Decker
-
-Art of the profile picture: Underwater train, Carles Dalmau
