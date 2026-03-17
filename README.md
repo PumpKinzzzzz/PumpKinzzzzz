@@ -35,8 +35,11 @@ I bring:
 Recently taking the Rust pill. I Started devellop with the Tauri Framework and I am way too enjoying it.
 
 **Framework:** Tauri, React
+
 **Frontend:** Javascript
-**Backend & Systems:** Rust, Go, C/C++, local-first design, flow-oriented architecture  
+
+**Backend & Systems:** Rust, Go, C/C++, local-first design, flow-oriented architecture
+
 **Interests:** tooling, workflow optimization, accessibility, low-tech, digital sustainability  
 
 ## How to reach me
