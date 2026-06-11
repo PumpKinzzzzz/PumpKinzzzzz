@@ -19,10 +19,10 @@ Right now, I'm building up my skills with the **Tauri Framework**. My goal is to
 - **Tooling:** Git, GitHub Actions, Docker, Unix/Linux environment
 - **Architectures & Interests:** Local-first design, workflow optimization, accessibility, digital sustainability, decentralized networks (Fediverse).
 
-## ☕ Let's Chat
+## Let's Chat
 If you want to discuss anything from Low-tech design to my burning passion for the Resident Evil franchise (or if you have job opportunities, who knows), feel free to reach me here:
 - **Email:** julianlambert524@gmail.com
-- **[LinkedIn:]( https://www.linkedin.com/in/julian-lambert-457980209/)**
+- **[LinkedIn]( https://www.linkedin.com/in/julian-lambert-457980209/)**
 
 ## Current / Recent Reads
 - **[How to Build a Low-Tech Internet](https://solar.lowtechmagazine.com/2023/08/thematic-books-series/)** — Kris De Decker
