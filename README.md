@@ -2,9 +2,9 @@
 
 I'm a Full-Stack & Tools Developer based in Alsace, finishing my Master's degree at Epitech. 
 
-I like to focus on building **clean, reliable software** that solves real problems without flatlining your RAM or your data privacy. 
+I like to focus on building clean, reliable software that solves real problems without flatlining your RAM or your data privacy. 
 
-Right now, I'm building up my skills with the **Tauri Framework**. My goal is to develop a suite of **local-first desktop tools** (PDF editing, lightweight conversion, background removal). I want to offer lightweight, fast utilities that run completely offline, with zero ads, zero tracking, and minimal energy consumption.
+Right now, I'm building up my skills with the Tauri Framework. My goal is to develop a suite of local-first desktop tools (PDF editing, lightweight conversion, background removal). I want to offer lightweight, fast utilities that run completely offline, with zero ads, zero tracking, and minimal energy consumption.
 
 ## My Approach to Dev
 
