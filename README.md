@@ -10,7 +10,7 @@ Right now, I'm building up my skills with the **Tauri Framework**. My goal is to
 
 - **GreenDev & Low-Tech:** I strongly believe software should adapt to the hardware, not the other way around. I optimize my code for efficiency, digital sustainability, and accessibility.
 - **Product & UX Design:** I really enjoy to design features. I like to talk with users, find where the friction is, and build intuitive interfaces to fix it.
-- **Crafting Durable Software:** For me, code is only truly sustainable if it's easy to read, easy to maintain, and seamless to adopt. That’s why I love diving deep into software architecture, writing clean code centered around SOLID principles, and keeping things as simple as possible under the hood. We trust our successors to do the same for us.
+- **Crafting Durable Software:** For me, code is only truly sustainable if it's easy to read, easy to maintain, and seamless to adopt. That’s why I love diving deep into software architecture, writing clean code centered around SOLID principles, and keeping things as simple as possible under the hood. I trust our successors to do the same for us.
 
 ## Tech Stack
 
