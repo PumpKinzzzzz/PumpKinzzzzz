@@ -26,4 +26,4 @@ If you want to discuss anything from Low-tech design to my burning passion for t
 
 ## Current / Recent Reads
 - **[How to Build a Low-Tech Internet](https://solar.lowtechmagazine.com/2023/08/thematic-books-series/)** — Kris De Decker
-- **Allah n'est pas obligé** — Ahmadou Kourouma
+- **Les merveilleux nuages** — Françoise Sagan
