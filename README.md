@@ -14,8 +14,8 @@ Right now, I'm building up my skills with the Tauri Framework. My goal is to dev
 
 ## Tech Stack
 
-- **Desktop & Web:** Tauri (currently exploring), React, Svelte, Angular
-- **Languages:** Rust 🦀, Go, Python, TypeScript, C/C++, Lua
+- **Desktop & Web:** Tauri, React, Svelte, Angular
+- **Languages:** Rust 🦀, C# (.NET), Springboot, TypeScript, C/C++, Lua
 - **Tooling:** Git, GitHub Actions, Docker, Unix/Linux environment
 - **Architectures & Interests:** Local-first design, workflow optimization, accessibility, digital sustainability, decentralized networks (Fediverse).
 
