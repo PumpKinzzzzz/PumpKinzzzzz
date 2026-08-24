@@ -1,29 +1,22 @@
 ## 🌻 Hi, I'm Julian 🗺️
+Full-Stack & Tools developer based in Alsace, finishing a Master's at Epitech. I'm drawn to software that respects its user, not tools locked behind subscriptions or shipping telemetry for tasks as simple as a calculator, so I focus on building lean, reliable alternatives.
 
-I'm a Full-Stack & Tools Developer based in Alsace, finishing my Master's degree at Epitech. 
-
-I like to focus on building clean, reliable software that solves real problems without flatlining your RAM or your data privacy. 
-
-Right now, I'm building up my skills with the Tauri Framework. My goal is to develop a suite of local-first desktop tools (PDF editing, lightweight conversion, background removal). I want to offer lightweight, fast utilities that run completely offline, with zero ads, zero tracking, and minimal energy consumption.
+Right now I'm deep in the Tauri framework, building a suite of local-first desktop tools: PDF editing, lightweight conversion, background removal. The goal is simple. Fast utilities that run fully offline, no ads, no tracking, no wasted watts.
 
 ## My Approach to Dev
-
-- **GreenDev & Low-Tech:** I strongly believe software should adapt to the hardware, not the other way around. I optimize my code for efficiency, digital sustainability, and accessibility.
-- **Product & UX Design:** I really enjoy to design features. I like to talk with users, find where the friction is, and build intuitive interfaces to fix it.
-- **Crafting Durable Software:** For me, code is only truly sustainable if it's easy to read, easy to maintain, and seamless to adopt. That’s why I love diving deep into software architecture, writing clean code centered around SOLID principles, and keeping things as simple as possible under the hood. For those who come after.
+I believe software should bend to the hardware, not the other way around, so I optimize for efficiency, sustainability, and accessibility. I like designing features from the ground up: talking to users, finding the friction, building something that gets out of their way. And I think code only earns the word "sustainable" if it's easy to read, easy to maintain, easy to hand off. That's why I lean on SOLID, keep the architecture honest, and keep things simple under the hood. For whoever inherits it next.
 
 ## Tech Stack
-
 - **Desktop & Web:** Tauri, React, Svelte, Angular
-- **Languages:** Rust 🦀, C# (.NET), Springboot, TypeScript, C/C++, Lua
-- **Tooling:** Git, GitHub Actions, Docker, Unix/Linux environment
-- **Architectures & Interests:** Local-first design, workflow optimization, accessibility, digital sustainability, decentralized networks (Fediverse).
+- **Languages:** Rust 🦀, C# (.NET), Spring Boot, TypeScript, C/C++, Lua
+- **Tooling:** Git, GitHub Actions, Docker, Unix/Linux environments
+- **Architectures & Interests:** Local-first design, workflow optimization, accessibility, digital sustainability, decentralized networks (Fediverse)
 
 ## Let's Chat
-If you want to discuss anything from Low-tech design to my burning passion for the Resident Evil franchise (or if you have job opportunities, who knows), feel free to reach me here:
+Low-tech design, my passion for the Resident Evil franchise, or a job opportunity. Feel free to reach out.
 - **Email:** julianlambert524@gmail.com
-- **[LinkedIn]( https://www.linkedin.com/in/julian-lambert-457980209/)**
+- **[LinkedIn](https://www.linkedin.com/in/julian-lambert-457980209/)**
 
 ## Current / Recent Reads
 - **[How to Build a Low-Tech Internet](https://solar.lowtechmagazine.com/2023/08/thematic-books-series/)** — Kris De Decker
-- **Les merveilleux nuages** — Françoise Sagan
+- **Death on Nile** — Agatha Christie
