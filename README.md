@@ -1,22 +1,18 @@
-## 🌻 Hi, I'm Julian 🗺️
-Full-Stack & Tools developer based in Alsace, finishing a Master's at Epitech. I'm drawn to software that respects its user, not tools locked behind subscriptions or shipping telemetry for tasks as simple as a calculator, so I focus on building lean, reliable alternatives.
-
-Right now I'm deep in the Tauri framework, building a suite of local-first desktop tools: PDF editing, lightweight conversion, background removal. The goal is simple. Fast utilities that run fully offline, no ads, no tracking, no wasted watts.
-
-## My Approach to Dev
-I believe software should bend to the hardware, not the other way around, so I optimize for efficiency, sustainability, and accessibility. I like designing features from the ground up: talking to users, finding the friction, building something that gets out of their way. And I think code only earns the word "sustainable" if it's easy to read, easy to maintain, easy to hand off. That's why I lean on SOLID, keep the architecture honest, and keep things simple under the hood. For whoever inherits it next.
-
-## Tech Stack
-- **Desktop & Web:** Tauri, React, Svelte, Angular
-- **Languages:** Rust 🦀, C# (.NET), Spring Boot, TypeScript, C/C++, Lua
-- **Tooling:** Git, GitHub Actions, Docker, Unix/Linux environments
-- **Architectures & Interests:** Local-first design, workflow optimization, accessibility, digital sustainability, decentralized networks (Fediverse)
+Hi I'm Julian I code for a living and sometimes for fun too.
+I'm working on my free time on [MossyDesk](https://github.com/Mossy-Desk) A suite that aim to help you do everyday stuff such as modifying pdf or scaling a pictures directly on your computer, without ever sending data to stranger on the internet or depending on the business choice of a company to make you pay a damn subscription for these mundane tasks. Come visit us !
 
 ## Let's Chat
-Low-tech design, my passion for the Resident Evil franchise, or a job opportunity. Feel free to reach out.
-- **Email:** julianlambert524@gmail.com
+If you want to discuss something with me (Code, Arts, Job opportunity, Resident Evil) feel free to reach me there:
+- **Email:** julian.lambert2610@proton.me
 - **[LinkedIn](https://www.linkedin.com/in/julian-lambert-457980209/)**
 
-## Current / Recent Reads
+## My Dev Bookshelf
 - **[How to Build a Low-Tech Internet](https://solar.lowtechmagazine.com/2023/08/thematic-books-series/)** — Kris De Decker
-- **Death on Nile** — Agatha Christie
+- **Clean Architecture : A Craftsman's Guide to Software Structure and Design** - Robert C. Martin
+- **[Automate the boring stuff with Python](https://automatetheboringstuff.com/)** - Al Sweigart
+- **Data Grab** - Ulises A. Mejias and Nick Couldry
+- **Working Effectively with Legacy Code** - Michael Feathers
+- **The Pragmatic Programmer** - Hunt & Thomas
+- **The Ethical Algorithm** - Kearns & Roth
+- **Reclaiming Conversation** - Sherry Turkle
+- **Digital Minimalism** - Cal Newport
