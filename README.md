@@ -1,5 +1,5 @@
-Hi I'm Julian I code for a living and sometimes for fun too.
-I'm working on my free time on [MossyDesk](https://github.com/Mossy-Desk) A suite that aim to help you do everyday stuff such as modifying pdf or scaling a pictures directly on your computer, without ever sending data to stranger on the internet or depending on the business choice of a company to make you pay a damn subscription for these mundane tasks. Come visit us !
+Hi I'm Julian I code for a living and sometimes for fun too.  
+I'm working on my free time on [MossyDesk](https://github.com/Mossy-Desk) A suite that aim to help you do everyday stuff such as modifying pdf or scaling a pictures directly on your computer, without ever sending data to stranger on the internet or depending on the business choice of a company to make you pay a damn subscription for these mundane tasks. Come visit us !  
 
 ## Let's Chat
 If you want to discuss something with me (Code, Arts, Job opportunity, Resident Evil) feel free to reach me there:
